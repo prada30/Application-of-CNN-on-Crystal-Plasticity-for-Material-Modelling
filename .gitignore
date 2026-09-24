@@ -31,3 +31,6 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.log
+
+# Microsoft Office temporary files
+~$*
